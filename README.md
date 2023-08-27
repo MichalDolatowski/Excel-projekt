@@ -1,2 +1,4 @@
 # Excel-projekt
-Celem projektu jest stworzenie interaktywnego dash boardu na podstawie fikcyjnych danych o call center.
+Celem projektu było stworzenie wykresów na podstawie danych z fikcyjnego centrum obsługi klienta, 
+a następnie stworzenie interaktywnego panelu z łatwym dostępem do wykresów, oraz możliwością modyfikowania ich za pomocą filtrów,
+by móc łatwiej wyciągać wnioski z danych.
